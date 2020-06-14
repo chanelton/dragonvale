@@ -2,8 +2,8 @@
 
   The purpose of this application is to automate 4 different procedures in the mobile app game, Dragonvale using pynput's 
   autoclicking functions. The 4 main functions include creating 21 new parks, giving gems on these alternate accounts daily,
-  breeding/selling plant dragons for magic during special events, and simple autoclicker to collect gems. Dragonvale should
-  preferably be ran on BlueStacks emulator to fit similar mouse position. 
+  breeding/selling plant dragons for magic during special events (2000 an hour), and a simple autoclicker to collect gems.   
+  Dragonvale should preferably be ran on BlueStacks emulator to fit similar mouse position. 
   
 ## Warnings:
 
