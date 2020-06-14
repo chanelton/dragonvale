@@ -227,7 +227,7 @@ def run_gem():
         # close daily login page
         time.sleep(3.279383182525635)
         # first galaxy dragon condition
-        day = int(str(datetime.date.today() - zero_day)[0])
+        day = int(str(datetime.date.today() - zero_day)[0]) % 100
         if day != 30 or 60 or 90:
             if day == 2:
                 mouse.position = (1300, 750)
